@@ -1,0 +1,5 @@
+- 👋 Heya, I’m P4nth3r. (call me panther)
+- 👀 I’m interested in coding and ethical hacking.
+- 🌱 I’m currently learning python and visual basic.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me discord: .p4nth3r_
